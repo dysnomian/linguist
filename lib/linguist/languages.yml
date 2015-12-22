@@ -931,6 +931,14 @@ EmberScript:
   tm_scope: source.coffee
   ace_mode: coffee
 
+Emily:
+  type: programming
+  color: "#FF6600"
+  extensions:
+    - .em
+  tm_scope: source.emily
+  ace_mode: text
+
 Erlang:
   type: programming
   color: "#B83998"
